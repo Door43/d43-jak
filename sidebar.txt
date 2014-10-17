@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jak:home|Door43 (jak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jak|d43-jak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jak/archive/master.zip|d43-jak.zip]]
+
+**Recent Changes**
+{{changes>ns = jak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jak|Ethnologue data]]
+
